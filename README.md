@@ -27,4 +27,5 @@ For kde6
 Also use right click on the file > Properties > Permissions > And mark the checkbox next to the text "Is executable".
 or use $ chmod +x ./open-dolphin-as-root.desktop
 
-support me on paypal with the button below to keep projects that i create like this going
+support me on paypal with link below to keep projects that i create like this going
+https://paypal.me/claudemods?country.x=GB&local
