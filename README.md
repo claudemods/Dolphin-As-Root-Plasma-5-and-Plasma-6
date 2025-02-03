@@ -1,19 +1,26 @@
-# Dolphin-As-Root-Plasma-5-and-Plasma-6
-simple service menu 
-
-Description:
 Dolphin-As-Root-Plasma-5-and-Plasma-6
 simple service menu
 
-since i Create distributions based on kde called lancaster i had an issue on plasma 6 arch
+v1.4
+support for plasma 5 and 6 now working
+
+v1.3
+plasma 6 support
+
+since i Create a taskbar i use on my distributions
+based on debian ubuntu and arch kde under the name claudemods
+i had an issue on plasma 6 arch
 i created this to fix the issues i was having with copying my distributions necessities to locked root directories
 now you can open the dolphin as root with just one downloaded .desktop file
 it Works with plasma 5 and plasma 6
 
-Attention: please read up about root and system files before changing things, with this add-on !!
-please note dolphin on plasma 6 is currently very buggy
-and you may need to click this twice and enter your password twice
-otherwise this works fine no issues
+
+Attention:
+Please read up on root and system files before changing anything with this add-on!!
+
+Please note, the black-themed tab that I have open in my photo will be your default root account's desktop theme color. I just so happen to have mine customized as Breeze Dark and on my main account its as Breeze Light.
+The is the defaults on my distributions i create
+
 
 How to install:
 - Dolphin -> Preferences -> Services -> Download New Services...
